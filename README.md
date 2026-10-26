@@ -221,27 +221,26 @@ This project was developed for educational and academic purposes. A formal open-
 ## 📸 Execution Screenshots
 
 ### 1. Experiment Output
-![Experiment Output](screenshots/Screenshot%202026-10-26%20at%201.54.51%20PM.png)
+![Experiment Output](screenshots/experiment-output.png)
 
 ### 2. Algorithm Results
-![Algorithm Results](screenshots/Screenshot%202026-10-26%20at%201.55.03%20PM.png)
+![Algorithm Results](screenshots/algorithm-results.png)
 
 ### 3. Execution Trace
-![Execution Trace](screenshots/Screenshot%202026-10-26%20at%201.55.21%20PM.png)
+![Execution Trace](screenshots/execution-trace.png)
 
 ### 4. Page Replacement Results
-![Page Replacement Results](screenshots/Screenshot%202026-10-26%20at%201.55.31%20PM.png)
+![Page Replacement Results](screenshots/replacement-results.png)
 
 ### 5. Performance Comparison
-![Performance Comparison](screenshots/Screenshot%202026-10-26%20at%201.55.43%20PM.png)
+![Performance Comparison](screenshots/performance-comparison.png)
 
 ### 6. Belady's Anomaly
-![Belady's Anomaly](screenshots/Screenshot%202026-10-26%20at%201.56.01%20PM.png)
+![Belady's Anomaly](screenshots/beladys-anomaly.png)
 
 ### 7. Final Results
-![Final Results](screenshots/Screenshot%202026-10-26%20at%201.56.14%20PM.png)
+![Final Results](screenshots/final-results.png)
 
 ## 📄 Project Report
 
 [**View / Download Project Report (PDF)**](Deep_Dwivedi_Page_Replacement_Project_Report.pdf)
-
