@@ -218,3 +218,30 @@ This project was developed for educational and academic purposes. A formal open-
 ---
 
 ⭐ If you find this project useful for learning operating systems and virtual memory concepts, consider starring the repository.
+## 📸 Execution Screenshots
+
+### 1. Experiment Output
+![Experiment Output](screenshots/Screenshot%202026-10-26%20at%201.54.51%20PM.png)
+
+### 2. Algorithm Results
+![Algorithm Results](screenshots/Screenshot%202026-10-26%20at%201.55.03%20PM.png)
+
+### 3. Execution Trace
+![Execution Trace](screenshots/Screenshot%202026-10-26%20at%201.55.21%20PM.png)
+
+### 4. Page Replacement Results
+![Page Replacement Results](screenshots/Screenshot%202026-10-26%20at%201.55.31%20PM.png)
+
+### 5. Performance Comparison
+![Performance Comparison](screenshots/Screenshot%202026-10-26%20at%201.55.43%20PM.png)
+
+### 6. Belady's Anomaly
+![Belady's Anomaly](screenshots/Screenshot%202026-10-26%20at%201.56.01%20PM.png)
+
+### 7. Final Results
+![Final Results](screenshots/Screenshot%202026-10-26%20at%201.56.14%20PM.png)
+
+## 📄 Project Report
+
+[**View / Download Project Report (PDF)**](Deep_Dwivedi_Page_Replacement_Project_Report.pdf)
+
